@@ -1,4 +1,4 @@
 # oop project (leti)
 
-Simulation of family with very capricious cat.
+Family with very capricious cat simulation.
  
